@@ -1,9 +1,13 @@
-<h1 align="center">Hi 👋, I'm David Peach</h1>
-<h3 align="center">Laravel developer and Virtual Photographer from England</h3>
+<h1>Hi 👋, I'm David Peach</h1>
+<p>Laravel developer and Virtual Photographer from England</p>
 
+<br>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=davidpeach&theme=dracula&title=Stars,Followers,Issues,Pulls,Repositories&margin-w=15" alt="davidpeach" /></a> </p>
+<br>
 
+<!--
 <p align="left"> <a href="https://twitter.com/chegalabonga" target="blank"><img src="https://img.shields.io/twitter/follow/chegalabonga?logo=twitter&style=for-the-badge" alt="chegalabonga" /></a> </p>
+-->
 
 - 🔭 I’m currently working on [Manuscript](https://github.com/davidpeach/composer-manuscript)
 

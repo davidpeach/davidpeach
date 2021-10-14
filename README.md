@@ -11,9 +11,9 @@
 
 - 🔭 I’m currently working on [Manuscript](https://github.com/davidpeach/composer-manuscript)
 
-- 🌱 I’m currently learning **Package Development**
+- 🌱 I’m currently digging deeper into **Laravel Package Development**
 
-- 📝 I regularly write articles on [https://davidpeach.co.uk/dev-blog](https://davidpeach.co.uk/dev-blog)
+- 📝 I write over on my website [https://davidpeach.co.uk/blog](https://davidpeach.co.uk/dev-blog)
 
 - 💬 Ask me about **Laravel, PHP**
 

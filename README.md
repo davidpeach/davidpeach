@@ -13,7 +13,7 @@
 
 - 🌱 I’m currently digging deeper into **Laravel Package Development**
 
-- 📝 I write over on my website [https://davidpeach.co.uk/blog](https://davidpeach.co.uk/dev-blog)
+- 📝 I write over on my website [https://davidpeach.co.uk/blog](https://davidpeach.co.uk/blog)
 
 - 💬 Ask me about **Laravel, PHP**
 

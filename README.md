@@ -10,7 +10,7 @@ Laravel developer at [Jump Twenty Four](https://github.com/JumpTwentyFour)
 
 👨‍💻 Learning Vim (using [Neovim](https://neovim.io/))
 
-📝 Writing at [https://davidpeach.co.uk/blog](https://davidpeach.co.uk/blog)
+📝 Writing at [https://davidpeach.me](https://davidpeach.me)
 
 
 ---

@@ -18,9 +18,7 @@ Laravel developer at [Jump Twenty Four](https://github.com/JumpTwentyFour)
 
 💬 Ask me about **Laravel, PHP**
 
-📫 Reach me at **mail@davidpeach.co.uk**
-
-<!-- Toot me at my Mastodon: <a rel="me" href="https://mastodon.davidpeach.me/@david">Mastodon</a> -->
+📫 Reach me at **hello@davidpeach.me**
 
 ---
 

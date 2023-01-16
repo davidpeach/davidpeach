@@ -27,7 +27,7 @@ Software Engineer at [Geomiq](https://github.com/geomiq)
 <p align="left">
 <a href="https://twitter.com/iamdavidpeach" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="David Peach on Twitter" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/iamdavidpeach" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="David Peach on LinkedIn" height="30" width="40" /></a>
-<a href="https://davidpeach.me/feed/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://davidpeach.co.uk/feed/" height="30" width="40" /></a>
+<a href="https://davidpeach.co.uk/feed/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://davidpeach.co.uk/feed/" height="30" width="40" /></a>
 </p>
 <br>
 

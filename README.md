@@ -1,6 +1,6 @@
 <h1>Hi 👋, I'm David Peach</h1>
 
-Software Engineer at [Geomiq](https://github.com/geomiq)
+Senior Software Engineer at [Geomiq](https://github.com/geomiq)
 
 ---
 

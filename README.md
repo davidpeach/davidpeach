@@ -4,11 +4,11 @@ Software Engineer at [Geomiq](https://github.com/geomiq)
 
 ---
 
-🔭 Working on [Manuscript](https://github.com/davidpeach/composer-manuscript)
+🔭 Working on [Lupo](https://github.com/davidpeach/lupo), a static site generator written in Bash.
 
-🌱 Digging deeper into **Laravel Package Development**
+🌱 Digging deeper into **Building unix filters** and **Better understanding Vim**
 
-👨‍💻 Learning Vim (using [Neovim](https://neovim.io/))
+👨‍💻 Learning Vim (using [Neovim](https://neovim.io/)) but strongly considering move to Vim
 
 📝 Writing at [https://davidpeach.co.uk](https://davidpeach.co.uk)
 
@@ -16,7 +16,7 @@ Software Engineer at [Geomiq](https://github.com/geomiq)
 ---
 
 
-💬 Ask me about **Laravel, PHP**
+💬 Ask me about **Laravel**, **PHP**, **Bash**, **Linux**, **Vim**.
 
 📫 Reach me at **mail@davidpeach.co.uk**
 

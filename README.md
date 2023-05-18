@@ -10,7 +10,7 @@ Senior Software Engineer at [Geomiq](https://github.com/geomiq)
 
 👨‍💻 Learning Vim (using [Neovim](https://neovim.io/)) but strongly considering move to Vim
 
-📝 Writing at [https://davidpeach.co.uk](https://davidpeach.co.uk)
+📝 Being online at [https://davidpeach.me](https://davidpeach.me/)
 
 
 ---

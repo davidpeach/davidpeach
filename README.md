@@ -1,6 +1,6 @@
 <h1>Hi 👋, I'm David Peach</h1>
 
-Senior Software Engineer at [Geomiq](https://github.com/geomiq)
+I'm a Programmer living in the Midlands
 
 ---
 
@@ -8,9 +8,9 @@ Senior Software Engineer at [Geomiq](https://github.com/geomiq)
 
 🌱 Digging deeper into **Building unix filters** and **Better understanding Vim**
 
-👨‍💻 Learning Vim (using [Neovim](https://neovim.io/)) but strongly considering move to Vim
+👨‍💻 Vim user ([Neovim](https://neovim.io/))
 
-📝 Being online at [https://davidpeach.me](https://davidpeach.me/)
+📝 Being online at [https://davidpeach.co.uk](https://davidpeach.co.uk/)
 
 
 ---

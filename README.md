@@ -10,7 +10,7 @@ I'm a Programmer living in the Midlands
 
 👨‍💻 Vim user ([Neovim](https://neovim.io/))
 
-📝 Being online at [https://davidpeach.co.uk](https://davidpeach.co.uk/)
+📝 Being online at [https://davidpeach.me](https://davidpeach.me/)
 
 
 ---

@@ -8,9 +8,9 @@ I'm a Programmer living in the Midlands
 
 🌱 Digging deeper into **Building unix filters** and **Better understanding Vim**
 
-👨‍💻 Vim user ([Neovim](https://neovim.io/))
+👨‍💻 Vim user
 
-📝 Being online at [https://davidpeach.me](https://davidpeach.me/)
+📝 Sharing knowledge at [https://zet.davidpeach.me](https://zet.davidpeach.me/)
 
 
 ---
@@ -27,7 +27,6 @@ I'm a Programmer living in the Midlands
 <p align="left">
 <a href="https://twitter.com/iamdavidpeach" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="David Peach on Twitter" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/iamdavidpeach" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="David Peach on LinkedIn" height="30" width="40" /></a>
-<a href="https://davidpeach.co.uk/feed/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://davidpeach.co.uk/feed/" height="30" width="40" /></a>
 </p>
 <br>
 

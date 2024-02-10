@@ -10,7 +10,7 @@ I'm a Programmer living in the Midlands
 
 👨‍💻 Vim user
 
-📝 Sharing knowledge at [https://zet.davidpeach.me](https://zet.davidpeach.me/)
+📝 Sharing knowledge on [My Zettelkasten](https://davidpeach.me/zet)
 
 
 ---
